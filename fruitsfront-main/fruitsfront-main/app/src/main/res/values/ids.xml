@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="description" type="id">description</item>
+    <item name="descriptionadd" type="id">dscriptionadd</item>
+    <item name="Urlimage" type="id">Urlimage</item>
+    <item name="quantiteadd" type="id">quantiteadd</item>
+    <item name="imageView" type="id">imageView</item>
+
+
+
+</resources>

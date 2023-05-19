@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#21a7ed</color>
+    <color name="colorPrimaryDark">#7E0830</color>
+    <color name="colorPrimaryBackground">#E91E63</color>
+    <color name="colorAccent">#375290</color>
+    <color name="colorFormBackground">#e4e4e4</color>
+    <color name="grey">#DCDCDC</color>
+
+</resources>
+<style name="BoldText">
+<item name="android:textStyle">bold</item>
+</style>
